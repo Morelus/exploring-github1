@@ -11,5 +11,4 @@ Vocabulary List
     remote
     GUI
 
-Terminal Commands
 
